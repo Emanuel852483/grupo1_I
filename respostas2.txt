@@ -1,0 +1,1 @@
+O README é um documento de texto que fornece uma visão geral de um projeto, explicando o que ele faz, como instalá-lo e usá-lo.
