@@ -1,1 +1,4 @@
 O README é um documento de texto que fornece uma visão geral de um projeto, explicando o que ele faz, como instalá-lo e usá-lo.
+
+Descreve o que é o stashing
+	É para arquiva as alterações que se faz no projeto, e que ainda não estão prontas para um "commit".
