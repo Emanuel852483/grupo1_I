@@ -1,4 +1,9 @@
 B. As desvantagens dos sistemas de controlo de Verões Centralizados são:
 Caso o servidor entre em standby, nenhum dos desenvolvedores terá acesso ao mesmo criando versões desatualizadas dos ficheiro;
 Criação de versões desatualizadas dos ficheiros do servidor, isto é caso nenhum desenvolvedor mandar a versão mais atualizada do projeto e 
-se outro desenvlvedor nao tiver a versão mais atualizada vai ser criada versões dos ficheiros ias desatualizada
+se outro desenvlvedor nao tiver a versão mais atualizada vai ser criada versões dos ficheiros ias desatualizada.
+
+C. Os 3 componentes principais do GIT são:
+Working Directory;
+Staging Area;
+Repository.
