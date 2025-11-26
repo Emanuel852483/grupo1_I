@@ -10,3 +10,7 @@ Repository.
 
 Diga qual o comando git para remover um ficheiro da área de stashing enquanto mantém as alterações no seu diretório de trabalho.
 	git reset <nome_do_ficheiro>
+
+Diga o que faz o comando git clean -f -d.
+	Remove de forma permanente os ficheiros e diretórios não monitorizados. 
+	
