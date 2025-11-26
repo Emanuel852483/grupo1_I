@@ -7,3 +7,6 @@ C. Os 3 componentes principais do GIT são:
 Working Directory;
 Staging Area;
 Repository.
+
+Diga qual o comando git para remover um ficheiro da área de stashing enquanto mantém as alterações no seu diretório de trabalho.
+	git reset <nome_do_ficheiro>
